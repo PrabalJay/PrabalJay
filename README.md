@@ -68,7 +68,6 @@ My goal is to contribute to impactful projects and grow in the field of developm
 
 ### 📌 Contact Me
 - **Email**: [jayishu987@gmail.com](mailto:jayishu987@gmail.com)
-- **Portfolio**: [PSIT Profile](https://www.psit.ac.in/)
 
 ---
 
