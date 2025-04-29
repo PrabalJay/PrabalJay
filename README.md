@@ -25,7 +25,7 @@ My goal is to contribute to impactful projects and grow in the field of developm
 
 ### 💡 Skills
 #### **Programming Languages**  
-- Python, C/C++, HTML, CSS, JavaScript
+- Python, C++, HTML
 
 #### **Frameworks & Tools**  
 - Twitter Bootstrap, Google Analytics, Infosys Springboard Tools
@@ -36,10 +36,10 @@ My goal is to contribute to impactful projects and grow in the field of developm
 ---
 
 ### 🏆 Certifications
+- [Generative AI: Introduction and Applications](https://www.coursera.org/account/accomplishments/verify/LKZW28S3OLPH)
+- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/7031b357b8270a5b25f9bcadb8b8a46e2263eb430c59b9b667f3d3a8e1ac4e13)
+- [Introduction to Career Skills in Data Analytics](https://www.linkedin.com/learning/certificates/541b998afd9a873f3b4f8673dded01eed33ebfe32044d916af8a9f451277c113)
 - [Google Analytics - Google Digital Academy (Skillshop)](https://skillshop.credential.net/7766053b-1a0e-4a0b-8e99-0bdf6d4f3890)
-- [HTML5 - The Language - Infosys Springboard](https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_17739732834840810000_shared/1-b67c0632-b716-4537-bc02-2e1b322ec48f.pdf)
-- [CSS3 - Infosys Springboard](https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_15281000932633230000_shared/1-9e0f77cc-6bf4-46f0-a4e7-6b40bfe923f0.pdf)
-- [Twitter Bootstrap - Infosys Springboard](https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_24029875493927956000_shared/1-597687d6-55da-47ad-ad7b-97530844b32b.pdf)
 
 ---
 
