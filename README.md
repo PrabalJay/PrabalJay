@@ -67,7 +67,7 @@ My goal is to contribute to impactful projects and grow in the field of developm
 ---
 
 ### 📌 Contact Me
-- **Email**: [jayishu987@gmail.com](mailto:jayishu987@gmail.com)
+- **Email**: [2k23.cs2313758@gmail.com](mailto:2k23.cs2313758@gmail.com)
 
 ---
 
